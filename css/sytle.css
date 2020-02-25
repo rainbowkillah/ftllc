@@ -1,1 +1,17 @@
 @charset "utf-8";
+
+.img-center {
+	text-align: center;
+    margin-left: auto;
+    margin-right: auto;	
+}
+.header {
+	text-align: center;
+	background-color: peachpuff;
+	
+}
+#header {
+	background-color:aqua;
+	margin-left: auto;
+	margin-right: auto
+}
