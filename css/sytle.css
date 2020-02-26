@@ -6,8 +6,8 @@
     margin-right: auto;	
 }
 .intro {
-    font-size: 14pt;
-    
+    font-size: 22pt;
+    text-align: center;
 }
 .header {
 	background-color: peachpuff;
@@ -22,5 +22,5 @@
 }
 .navbar {
 	float: right;
-	background-color: black;
+	background-color: grey;
 }
