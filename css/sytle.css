@@ -5,6 +5,10 @@
     margin-left: auto;
     margin-right: auto;	
 }
+.intro {
+    font-size: 14pt;
+    
+}
 .header {
 	background-color: peachpuff;
 	text-align: justify;
