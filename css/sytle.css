@@ -6,8 +6,9 @@
     margin-right: auto;	
 }
 .intro {
-    font-size: 22pt;
+    font-size: 16pt;
     text-align: center;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";    
 }
 .header {
 	background-color: peachpuff;
@@ -22,9 +23,12 @@
 }
 .navbar {
     margin: auto;
+    font-size: 18pt;
     width: auto;
     border: none;
     text-align: center;
+    word-spacing: justify;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
 	background-color: none;
 }
 .marquee {
