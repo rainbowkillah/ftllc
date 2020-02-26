@@ -2,37 +2,27 @@
 <html>
 <head>
 <meta charset="utf-8">
-<!-- TemplateBeginEditable name="doctitle" -->
 <title>Fox Technologies LLC</title>
-<!-- TemplateEndEditable -->
-<link href="../css/sytle.css" rel="stylesheet" type="text/css">
-<script type="text/javascript">
-var $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || 
-{widgetcode:"8da6ae382ad09394cec3add16b0be0ff50be4eb05b4f5d58d035497df27f5caaf9a4aa7dc553c58dd1fd2456fafd52fa", values:{},ready:function(){}};
-var d=document;s=d.createElement("script");s.type="text/javascript";s.id="zsiqscript";s.defer=true;
-s.src="https://salesiq.zoho.com/widget";t=d.getElementsByTagName("script")[0];t.parentNode.insertBefore(s,t);d.write("<div id='zsiqwidget'></div>");
-</script>
-<script src="../js/script.js"></script>
-<!-- TemplateBeginEditable name="head" -->
-<!-- TemplateEndEditable -->
+<link href="css/sytle.css" rel="stylesheet" type="text/css">
+<script src="js/script.js"></script>
 </head>
 
 <body>
 <! Header >
 <section>
 <div>
-   <a href="../index.html"> <img src="../images/smftllclogo.png" alt="Fox Technologies LLC Logo" width="275" height="275" class="img-center"/> </a></div></section>
+   <a href="#"> <img src="images/smftllclogo.png" alt="Fox Technologies LLC Logo" width="275" height="275" class="img-center"/> </a></div></section>
 <! NavBar >
 <div>
     <table class="navbar" width="100%" border="0">
   <tbody>
     <tr>
       <td><a href="#">Home</a></td>
-      <td><a href="../about.html">About</a></td>
-      <td><a href="../contact.html">Contact</a></td>
-      <td><a href="../services.html">Services</a></td>
-      <td><a href="../store.html">Store</a></td>
-      <td><a href="../privacy.html">Privacy Policy</a></td>
+      <td><a href="about.html">About</a></td>
+      <td><a href="contact.html">Contact</a></td>
+      <td><a href="services.html">Services</a></td>
+      <td><a href="store.html">Store</a></td>
+      <td><a href="privacy.html">Privacy Policy</a></td>
     </tr>
   </tbody>
 </table>
