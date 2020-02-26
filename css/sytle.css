@@ -22,6 +22,8 @@
 }
 .navbar {
     margin: auto;
+    width: auto;
+    border: none;
     text-align: center;
 	background-color: none;
 }
