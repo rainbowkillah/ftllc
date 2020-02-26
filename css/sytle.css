@@ -25,3 +25,15 @@
     text-align: center;
 	background-color: none;
 }
+.marquee {
+    animation: scroll-right-left 5s linear infinite;
+}
+
+@keyframes scroll-right-left {
+    from {
+        transform: translateX(400px);
+    }
+    to {
+        transform: translateX(-100px);
+    }
+}
