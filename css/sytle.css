@@ -1,5 +1,10 @@
 @charset "utf-8";
 
+p {
+    text-color: blue;
+    
+}
+
 .img-center {
     display: block;
     margin-left: auto;
